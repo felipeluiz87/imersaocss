@@ -1,0 +1,31 @@
+body { 
+    background-image: url('https://img.ibxk.com.br/2018/03/01/01162640883259.jpg');
+      background-size: auto 120vh;
+      font-family: arial;
+      height: 100vh;
+    }
+    
+    .menu{
+      background-color: lightblue;
+    }
+    .menu li {
+      list-style: none;
+    }
+    a {
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .menu ul{
+      display: flex;
+      justify-content: space-around;  
+    }
+    .site-title {
+      color: whitesmoke;
+      font-style: italic;
+    }
+    .site-subtitle{
+      color:whitesmoke;
+      font-style: italic;
+    }
